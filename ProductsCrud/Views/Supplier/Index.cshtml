@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProductsCrud.Models.Supplier>
+@{
+}
+
+<h1>List of Suppliers</h1>
+<a asp-action="Create">Register a new supplier</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var supplier in Model)
+        {
+            <tr>
+                <td>@supplier.Id</td>
+                <td>@supplier.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@supplier.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@supplier.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

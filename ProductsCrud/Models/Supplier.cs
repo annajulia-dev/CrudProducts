@@ -2,15 +2,11 @@
 
 namespace ProductsCrud.Models
 {
-    public class Product
+    public class Supplier
     {
         public int Id { get; set; }
-
         [Required]
         public string Name { get; set; }
-
-        public int SupplierId { get; set; }
-
-        public Supplier? Supplier { get; set; }
+        public ICollection<Product>? Products { get; set; }
     }
 }

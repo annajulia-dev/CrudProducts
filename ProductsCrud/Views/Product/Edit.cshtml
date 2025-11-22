@@ -15,5 +15,10 @@
     <label>Name:</label>
     <input asp-for="Name" />
 
+    <label>Supplier:</label>
+    <select asp-for="SupplierId" asp-items="ViewBag.SupplierId">
+        <option value="">-- Select a Supplier --</option>
+    </select>
+
     <button type="submit">Save changes</button>
 </form>

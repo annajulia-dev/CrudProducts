@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ProductsCrud.Data;
 using ProductsCrud.Models;
@@ -17,13 +18,18 @@ namespace ProductsCrud.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            var products = await _context.Products.ToListAsync();
+            var products = await _context.Products.
+                                          Include(p => p.Supplier).
+                                          ToListAsync();
             return View( products );
         }
 
         [HttpGet]
         public IActionResult Create()
         {
+
+            ViewData["SupplierId"] = new SelectList(_context.Suppliers, "Id", "Name"); // pega os suppliers _context.Suppliers, Envia o "Id" para o bd, Mostra o "Name"
+
             return View();
         }
 
@@ -38,6 +44,9 @@ namespace ProductsCrud.Controllers
 
                 return RedirectToAction("Index");
             }
+
+            ViewData["SupplierId"] = new SelectList(_context.Suppliers, "Id", "Name"); // caso de erro recarregar o dropdown
+
             return View(newProduct);
         }
 
@@ -51,6 +60,8 @@ namespace ProductsCrud.Controllers
 
             if (productToEdit == null)
                 return NotFound();
+
+            ViewData["SupplierId"] = new SelectList(_context.Suppliers, "Id", "Name", productToEdit.Id);
     
             return View(productToEdit);
         }
@@ -65,6 +76,9 @@ namespace ProductsCrud.Controllers
 
                 return RedirectToAction("Index");
             }
+
+            ViewData["SupplierId"] = new SelectList(_context.Suppliers, "Id", "Name", productEdited.Id);
+
             return View(productEdited);
         }
         [HttpGet]

@@ -65,3 +65,4 @@ C:\Users\aniyaw\minhas coisas\My documents\Projetos\C#\ProductsCrud\ProductsCrud
 C:\Users\aniyaw\minhas coisas\My documents\Projetos\C#\ProductsCrud\ProductsCrud\obj\Debug\net8.0\ProductsCrud.pdb
 C:\Users\aniyaw\minhas coisas\My documents\Projetos\C#\ProductsCrud\ProductsCrud\obj\Debug\net8.0\ProductsCrud.genruntimeconfig.cache
 C:\Users\aniyaw\minhas coisas\My documents\Projetos\C#\ProductsCrud\ProductsCrud\obj\Debug\net8.0\ref\ProductsCrud.dll
+C:\Users\aniyaw\minhas coisas\My documents\Projetos\C#\ProductsCrud\ProductsCrud\obj\Debug\net8.0\ProductsCrud.sourcelink.json

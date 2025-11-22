@@ -1,0 +1,17 @@
+﻿@model ProductsCrud.Models.Supplier
+@{
+}
+
+<h1>Register a new Supplier</h1>
+
+<a asp-action="Index">Go back</a>
+
+<form asp-action="Create" method="post">
+
+    <label>Id:</label>
+    <input asp-for="Id" />
+    <label>Name:</label>
+    <input asp-for="Name" />
+
+     <button type="submit">Create</button>
+</form>

@@ -8,12 +8,16 @@
     Register a new Product
 </h1>
 
+<div asp-validation-summary="All" class="text-danger"></div>
+
 <form asp-action="Create" method="post">
-    
-    <label>ID:</label>
-    <input asp-for="Id" />
+
     <label>Name:</label>
     <input asp-for="Name" />
+    <label>Supplier:</label>
+    <select asp-for="SupplierId" asp-items="ViewBag.SupplierId" >
+        <option value="">-- Select a supplier --</option>
+    </select>
 
     <button type="submit">Register</button>
 </form>

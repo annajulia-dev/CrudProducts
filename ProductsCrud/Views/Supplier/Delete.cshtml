@@ -1,0 +1,13 @@
+﻿@model ProductsCrud.Models.Supplier
+@{
+}
+
+<h1>Delete supplier</h1>
+
+<a asp-action="Index">Go back</a>
+
+<form asp-action="Delete" method="post">
+    <input asp-for="Id" type="hidden"/>
+
+    <button type="submit">Delete</button>
+</form>
