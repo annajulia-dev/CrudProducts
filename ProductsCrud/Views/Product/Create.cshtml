@@ -1,0 +1,19 @@
+﻿@model ProductsCrud.Models.Product
+
+@{
+}
+
+
+<h1>
+    Register a new Product
+</h1>
+
+<form asp-action="Create" method="post">
+    
+    <label>ID:</label>
+    <input asp-for="Id" />
+    <label>Name:</label>
+    <input asp-for="Name" />
+
+    <button type="submit">Register</button>
+</form>

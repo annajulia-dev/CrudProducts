@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|c:\\users\\aniyaw\\minhas coisas\\my documents\\projetos\\c#\\productscrud\\productscrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B50E3-1BC7-47FD-9EA4-6A7BE5E2ED32}|ProductsCrud\\ProductsCrud.csproj|solutionrelative:productscrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductsCrud\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Delete.cshtml*",
+              "RelativeToolTip": "ProductsCrud\\Views\\Product\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:56:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductsCrud\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductsCrud\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:40:48.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductsCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductsCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:29:18.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductsCrud\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductsCrud\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T23:18:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsCrud\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsCrud\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:13:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsCrud\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsCrud\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T23:08:59.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductsCrud\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aniyaw\\minhas coisas\\My documents\\Projetos\\C#\\ProductsCrud\\ProductsCrud\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductsCrud\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T22:49:27.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
